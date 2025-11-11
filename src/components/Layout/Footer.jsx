@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { FiFacebook, FiInstagram, FiTwitter, FiLinkedin, FiMail, FiPhone, FiMapPin } from 'react-icons/fi';
+import { FiFacebook, FiInstagram, FiLinkedin, FiMail, FiPhone, FiMapPin } from 'react-icons/fi';
+import { FaXTwitter } from 'react-icons/fa6';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -29,7 +30,7 @@ const Footer = () => {
                 <FiInstagram size={20} />
               </a>
               <a href="#" className="p-3 bg-gray-700 rounded-lg hover:bg-blue-400 transition-colors">
-                <FiTwitter size={20} />
+                <FaXTwitter size={20} />
               </a>
               <a href="#" className="p-3 bg-gray-700 rounded-lg hover:bg-blue-700 transition-colors">
                 <FiLinkedin size={20} />
