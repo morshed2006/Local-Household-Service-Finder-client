@@ -1,7 +1,7 @@
 HomeHero - Trusted Home Services
 
 Live Site URL
-https://your-domain.com [Replace with your actual deployment URL]
+https://deft-quokka-aef849.netlify.app/
 
 Key Features :
 1. Comprehensive Service Marketplace
