@@ -1,16 +1,36 @@
-# React + Vite
+HomeHero - Trusted Home Services
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Site URL
+https://your-domain.com [Replace with your actual deployment URL]
 
-Currently, two official plugins are available:
+Key Features :
+1. Comprehensive Service Marketplace
+2. Browse and book from a wide range of home services including plumbing, electrical work, cleaning, and more
+3. Detailed service listings with pricing, ratings, and provider information
+4. Advanced filtering and search functionality to find the perfect service professional
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Verified Service Providers :
+1. All professionals are thoroughly vetted and background-checked
+2. Transparent rating and review system from real customers
+3. Provider profiles with experience, certifications, and service areas
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Secure Booking & Payments :
+1. Secure online booking system with instant confirmation
+2. Multiple payment options with encrypted transaction processing
+3. Real-time booking status updates and notifications
+
+User-Friendly Interface :
+1. Responsive design that works seamlessly on desktop, tablet, and mobile
+2. Intuitive navigation with dark/light mode toggle
+3. Interactive service galleries and easy-to-use booking calendar
+
+Quality Assurance :
+1. Service guarantee with customer satisfaction commitment
+2. 24/7 customer support for any issues or queries
+3. Emergency service options for urgent home repair needs
+
+HomeHero connects homeowners with trusted service professionals for all their home maintenance and repair needs.
